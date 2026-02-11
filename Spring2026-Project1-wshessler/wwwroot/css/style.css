@@ -4,14 +4,19 @@
     text-align: center;
 }
 
+#Title {
+   font-size: 50px;
+}
+
 #CoverArt {
-    width: 300px;
+    width: 350px;
     height: 450px;
     border-radius: 50%;
 }
 
 #Rating {
-    margin-top: 0.25rem;
+    font-size: 200%;
+    text-decoration: underline;
 }
 
 #IMDb {
@@ -34,6 +39,7 @@ a:hover {
 #Cast {
     margin-bottom: 0.25rem;
     font-size: 150%;
+    text-decoration: underline;
 }
 
 #Actors {
